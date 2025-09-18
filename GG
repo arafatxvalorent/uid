@@ -1,6 +1,4 @@
 {
-  "data": {
-    "status": "allow",
-    "message": "Welcome"
-  }
+  "status": "allow",
+  "message": "Welcome"
 }
