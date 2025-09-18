@@ -1,1 +1,6 @@
-allow
+{
+  "data": {
+    "status": "allow",
+    "message": "Welcome"
+  }
+}
